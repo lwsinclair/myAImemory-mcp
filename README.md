@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jktfe-myaimemory-mcp-badge.png)](https://mseep.ai/app/jktfe-myaimemory-mcp)
+
 # myAI Memory Sync
 
 [![smithery badge](https://smithery.ai/badge/@Jktfe/myaimemory-mcp)](https://smithery.ai/server/@Jktfe/myaimemory-mcp)
